@@ -1,0 +1,24 @@
+username requirements:
+-should not starts with number or special char
+-should have at least 3 char
+__________________________________
+
+email requirements:
+-should not starts with @
+-domain should match one of the following domains :
+gmail.com
+yahoo.com
+hotmail.com
+outlook.com
+____________________________________
+
+phone number requirements:
+-should start with 01
+-number length should not exceed 11
+___________________________________
+
+password requirements:
+-password length at least 8 chars
+-password should have at least one special char
+-password should have at least one upper case char
+-password should have mix of numbers and chars and special char

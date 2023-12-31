@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Todo List Compose</string>
+    <string name="welcome_back_glad_to_see_you_again">Welcome back! Glad to see you, Again!</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="app_logo">App logo</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">"Don’t have an account? "</string>
+    <string name="register_now">Register Now</string>
+    <string name="search_icon">search icon</string>
+    <string name="progress">Progress</string>
+    <string name="daily_tasks">Daily Tasks</string>
+    <string name="done_icon">done icon</string>
+    <string name="search_task_here">Search Task Here</string>
+    <string name="you_are_almost_done_go_ahead">You are almost done go ahead</string>
+    <string name="delete_icon">delete icon</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="priority">Priority</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="confirm">Confirm</string>
+    <string name="today_s_task">Today\'s Task</string>
+    <string name="are_you_sure_you_want_to_delete_this_task">Are you sure you want to delete this task?</string>
+    <string name="empty_list_icon">empty list icon</string>
+    <string name="you_haven_t_added_any_tasks_yet">You haven’t added any tasks yet</string>
+    <string name="add_icon">Add icon</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
